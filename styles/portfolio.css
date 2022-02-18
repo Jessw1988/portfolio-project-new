@@ -158,3 +158,12 @@ footer .social-links a:hover {
   .btn {
     font-size: 18px;
   }
+  .content h1 {
+  font-size:50px; 
+  }
+  .content h2{
+    font-size:32px;
+  }
+  .content p {
+    font-size:16px;
+  }
